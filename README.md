@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React, Express.js, MongoDB, Socket.io, AWS.
 - 💞️ I’m looking to collaborate on building browser-based boardgames using React/Express.js/Socket.io.
 - 📫 How to reach me: andychchou@gmail.com
--  ✔ Check out more about me at https://github.com/andychchou
+-  ✔ Check out more about me at https://andychchou.github.io/
 
 <!---
 andychchou/andychchou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
