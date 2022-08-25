@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andychchou
 - 👀 I’m interested in web app development.
-- 🌱 I’m currently learning React, Express.js, MongoDB, Socket.io, AWS.
+- 🌱 Let's learn together!
 - 💞️ I’m looking to collaborate on building browser-based boardgames using React/Express.js/Socket.io.
 - 📫 How to reach me: andychchou@gmail.com
 -  ✔ Check out more about me at https://andychchou.github.io/
